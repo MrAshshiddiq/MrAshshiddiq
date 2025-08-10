@@ -22,10 +22,10 @@ I'm a 22-year-old backend and server-side developer specializing in Node.js and 
 
 | Technology         | Level       | Description                             |
 |--------------------|-------------|---------------------------------------|
-| Node.js            | Expert      | Backend development and scripting     |
-| Express.js         | Advanced    | Building RESTful APIs                  |
+| Node.js            | Intermediate| Backend development and scripting     |
+| Express.js         | Intermediate| Building RESTful APIs                  |
 | Docker             | Intermediate| Containerization and deployment       |
-| Linux Server       | Advanced    | Server setup, configuration, and ops  |
+| Linux Server       | Intermediate| Server setup, configuration, and ops  |
 | Bash scripting     | Intermediate| Automation and system scripts          |
 | AWS / Cloudflare   | Intermediate| Cloud hosting and DNS management       |
 | MongoDB / Redis    | Intermediate| Databases and caching                  |
